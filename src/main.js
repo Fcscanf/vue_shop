@@ -8,8 +8,8 @@ import VueResource from 'vue-resource'
 import axios from 'axios'
 import Qs from 'qs'
 
-import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-chalk/index.css';
+import ElementUI from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
 
 import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
@@ -21,10 +21,10 @@ Vue.use(Vuex)
 Vue.use(moment)
 Vue.use(MintUI)
 Vue.use(VueResource)
-Vue.use(ElementUI);
+Vue.use(ElementUI)
 
-Vue.prototype.axios = axios;
-Vue.prototype.qs = Qs;
+Vue.prototype.axios = axios
+Vue.prototype.qs = Qs
 
 Vue.http.options.root = 'http://www.fcant.com:8080'
 

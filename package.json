@@ -18,7 +18,8 @@
     "vue-resource": "D:\\fcofficework\\Code\\WebStorm\\Pro\\vue_shop>\"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node.exe\"  \"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^1.5.1",
     "vue-router": "^3.0.1",
     "vues": "D:\\fcofficework\\Code\\WebStorm\\Pro\\vue_shop>\"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node.exe\"  \"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^0.5.20",
-    "vuex": "D:\\fcofficework\\Code\\WebStorm\\Pro\\vue_shop>\"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node.exe\"  \"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^3.1.1"
+    "vuex": "D:\\fcofficework\\Code\\WebStorm\\Pro\\vue_shop>\"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node.exe\"  \"D:\\fcofficework\\Protools\\Node\\node-v12.8.0-win-x64\\\\node_modules\\npm\\bin\\npm-cli.js\" config get save-prefix \r\n^3.1.1",
+    "qs": "latest"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
