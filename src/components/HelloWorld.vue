@@ -3,8 +3,8 @@
 
     <el-container>
       <div class="fun">
-        <el-link>注册</el-link>
-        <el-link>登录</el-link>
+        <el-link><router-link to="/user/login">登录</router-link></el-link>
+        <el-link><router-link to="/user/register">注册</router-link></el-link>
       </div>
       <el-header>
         <!--商城首页头部-商城标题、用户登录注册-->
@@ -14,7 +14,6 @@
         <!--    商城轮播图展示区-->
         <el-carousel :interval="4000" type="card" height="200px">
           <el-carousel-item v-for="item in turns" :key="item">
-
             <img :src="item">
           </el-carousel-item>
         </el-carousel>
@@ -108,7 +107,6 @@ export default {
   }
 
   .fun{
-    margin-top: -50px;
     margin-left: 90%;
   }
 
